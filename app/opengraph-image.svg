@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1C1A17"/>
+
+  <text
+    x="600"
+    y="270"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="30"
+    letter-spacing="8"
+    fill="#C9A876"
+  >ALDEIAS PALACE HOTEL</text>
+
+  <text
+    x="600"
+    y="360"
+    text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="56"
+    fill="#F5F1E8"
+  >Tucumã — PA</text>
+</svg>
