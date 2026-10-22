@@ -37,11 +37,11 @@ export default function HotelPage() {
           <Reveal>
             <SectionHeading title="Hospitalidade no coração de Tucumã" />
             <p className="mt-7 text-graphite-800/85 leading-relaxed max-w-prose2">
-              O Pluma's Hotel foi pensado para quem busca uma estadia
+              O Pluma&apos;s Hotel foi pensado para quem busca uma estadia
               tranquila, prática e confortável em Tucumã. Cada detalhe da
               nossa estrutura existe para tornar a passagem do hóspede pela
               cidade mais simples e agradável, seja a trabalho, em família
-              ou em trânsito.
+              ou em uma viagem de lazer.
             </p>
             <p className="mt-5 text-graphite-800/85 leading-relaxed max-w-prose2">
               Nossa equipe está disponível para atender o hóspede a qualquer

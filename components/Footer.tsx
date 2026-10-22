@@ -19,7 +19,7 @@ export default function Footer() {
     <footer className="bg-graphite-950 text-sand-100">
       <div className="container-edit py-16 grid md:grid-cols-4 gap-12">
         <div>
-          <span className="block font-display text-lg tracking-wide2 text-sand-50">Pluma's</span>
+          <span className="block font-display text-lg tracking-wide2 text-sand-50">Pluma&apos;s</span>
           <span className="block text-xs tracking-[0.25em] text-champagne-400 mt-0.5">
             hotel
           </span>

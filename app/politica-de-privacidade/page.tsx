@@ -19,7 +19,7 @@ export default function PoliticaPrivacidadePage() {
 
         <Reveal delay={0.1} className="mt-10 space-y-6 text-graphite-800/85 leading-relaxed">
           <p>
-            Este site tem como objetivo apresentar o Pluma's Hotel e facilitar o
+            Este site tem como objetivo apresentar o Pluma&apos;s Hotel e facilitar o
             contato de visitantes interessados em se hospedar em Tucumã, Pará.
             O conteúdo completo desta política será confirmado e detalhado
             pelo hotel antes da publicação oficial do site.

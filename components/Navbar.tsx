@@ -52,7 +52,7 @@ export default function Navbar() {
               scrolled || open ? "text-graphite-900" : "text-sand-50"
             }`}
           >
-            Pluma's
+            Pluma&apos;s
           </span>
           <span
             className={`block font-body text-[10px] md:text-xs tracking-[0.25em] mt-0.5 ${
