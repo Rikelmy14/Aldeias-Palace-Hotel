@@ -4,7 +4,7 @@ import Gallery from "@/components/Gallery";
 
 export const metadata: Metadata = {
   title: "Galeria",
-  description: "Fotos do Aldeias Palace Hotel: quartos, café da manhã, restaurante e áreas comuns.",
+  description: "Fotos do Pluma's Hotel: quartos, café da manhã, restaurante e áreas comuns.",
 };
 
 export default function GaleriaPage() {

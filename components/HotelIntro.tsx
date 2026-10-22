@@ -21,7 +21,7 @@ export default function HotelIntro() {
           <Image
             // PLACEHOLDER: substituir por fotografia real da área interna do hotel
             src="https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?q=80&w=1600&auto=format&fit=crop"
-            alt="Área interna do Aldeias Palace Hotel"
+            alt="Área interna do Pluma's Hotel"
             fill
             className="object-cover"
           />
@@ -33,7 +33,7 @@ export default function HotelIntro() {
           </h2>
           <div className="mt-5 h-px w-16 bg-champagne-500" />
           <p className="mt-7 text-graphite-800/85 leading-relaxed max-w-prose2">
-            O Aldeias Palace Hotel foi criado para receber bem quem passa por
+            O pluma's Hotel foi criado para receber bem quem passa por
             Tucumã, seja a trabalho, em família ou de passagem. Estrutura
             pensada para o dia a dia do hóspede, com atenção aos detalhes que
             fazem diferença em uma boa estadia.

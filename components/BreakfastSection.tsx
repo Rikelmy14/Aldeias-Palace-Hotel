@@ -8,7 +8,7 @@ export default function BreakfastSection() {
         <Image
           // PLACEHOLDER: substituir por fotografia real do café da manhã do hotel
           src="https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?q=80&w=2400&auto=format&fit=crop"
-          alt="Café da manhã do Aldeias Palace Hotel"
+          alt="Café da manhã do Pluma's Hotel"
           fill
           className="object-cover"
         />

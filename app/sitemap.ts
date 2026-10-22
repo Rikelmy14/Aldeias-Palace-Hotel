@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { rooms } from "@/data/rooms";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = "https://www.aldeiaspalacehotel.com.br";
+  const base = "https://www.pluma'shotel.com.br";
 
   const staticRoutes = [
     "",

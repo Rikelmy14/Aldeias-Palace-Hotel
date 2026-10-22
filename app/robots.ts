@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://www.aldeiaspalacehotel.com.br/sitemap.xml",
+    sitemap: "https://www.Pluma'sHotel.com.br/sitemap.xml",
   };
 }

@@ -1,16 +1,15 @@
 // ============================================================================
 // DADOS OFICIAIS DO HOTEL — CENTRALIZADOS AQUI
-// Todo campo marcado com "// PLACEHOLDER" contém um dado fictício/genérico
-// e DEVE ser substituído pela informação real e confirmada pelo Aldeias
-// Palace Hotel antes da publicação do site. Nenhum dos valores abaixo foi
+// Todo campo marcado com "// PLACEHOLDER" contém um dado fictício
+// e DEVE ser substituído pela informação real e confirmada pelo Pluma's Hotel antes da publicação do site. Nenhum dos valores abaixo foi
 // inventado como fato real, são apenas valores de demonstração no mesmo
 // formato do dado real, para que o layout e os links funcionem durante o
 // desenvolvimento.
 // ============================================================================
 
 export const hotel = {
-  name: "Aldeias Palace Hotel",
-  shortName: "Aldeias Palace",
+  name: "Pluma's Hotel",
+  shortName: "Pluma's Hotel",
   city: "Tucumã",
   state: "Pará",
   road: "PA-279",
@@ -30,11 +29,11 @@ export const hotel = {
   whatsappIsPlaceholder: true,
 
   // PLACEHOLDER — e-mail oficial de reservas/contato
-  email: "contato@aldeiaspalacehotel.com.br",
+  email: "contato@Pluma'sHotel.com.br",
   emailIsPlaceholder: true,
 
   // PLACEHOLDER — nota de reservas enviada por e-mail (mailto) usa este endereço
-  reservationsEmail: "reservas@aldeiaspalacehotel.com.br",
+  reservationsEmail: "reservas@Pluma'sHotel.com.br",
 
   // Nota: manter a nota de rating/reviewCount só é válida se vier do
   // Google Meu Negócio real do hotel, substituir quando confirmado.
@@ -64,9 +63,9 @@ export const hotel = {
   },
 
   seo: {
-    title: "Aldeias Palace Hotel | Hotel em Tucumã - PA",
+    title: "Pluma's Hotel | Hotel em Tucumã - PA",
     description:
-      "Hospede-se no Aldeias Palace Hotel em Tucumã, Pará. Conheça nossas acomodações, comodidades e estrutura. Consulte disponibilidade e reserve pelo WhatsApp.",
+      "Hospede-se no Pluma's Hotel em Tucumã, Pará. Conheça nossas acomodações, comodidades e estrutura. Consulte disponibilidade e reserve pelo WhatsApp.",
     keywords: [
       "Hotel em Tucumã",
       "Hotel Tucumã PA",

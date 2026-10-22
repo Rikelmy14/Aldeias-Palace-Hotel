@@ -1,6 +1,6 @@
-# Aldeias Palace Hotel — Website
+# Pluma's Hotel — Website
 
-Website institucional do Aldeias Palace Hotel (Tucumã, Pará), desenvolvido
+Website institucional do  Pluma's Hotel (Tucumã, Pará), desenvolvido
 pela Code Craft Lab.
 
 ## Stack

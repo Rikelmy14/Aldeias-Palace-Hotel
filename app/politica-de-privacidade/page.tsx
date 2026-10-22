@@ -4,7 +4,7 @@ import { hotel } from "@/data/hotel";
 
 export const metadata: Metadata = {
   title: "Política de Privacidade",
-  description: "Política de Privacidade e Termos de Uso do site do Aldeias Palace Hotel.",
+  description: "Política de Privacidade e Termos de Uso do site do Pluma's Hotel.",
 };
 
 export default function PoliticaPrivacidadePage() {
@@ -19,7 +19,7 @@ export default function PoliticaPrivacidadePage() {
 
         <Reveal delay={0.1} className="mt-10 space-y-6 text-graphite-800/85 leading-relaxed">
           <p>
-            Este site tem como objetivo apresentar o {hotel.name} e facilitar o
+            Este site tem como objetivo apresentar o Pluma's Hotel e facilitar o
             contato de visitantes interessados em se hospedar em Tucumã, Pará.
             O conteúdo completo desta política será confirmado e detalhado
             pelo hotel antes da publicação oficial do site.
@@ -40,9 +40,9 @@ export default function PoliticaPrivacidadePage() {
             Termos de Uso
           </h2>
           <p>
-            [PLACEHOLDER] Os termos de uso do site — regras de utilização,
+            [PLACEHOLDER] Os termos de uso do site, regras de utilização,
             responsabilidades do hotel e do usuário, limitações de
-            responsabilidade e legislação aplicável — devem ser inseridos
+            responsabilidade e legislação aplicável, devem ser inseridos
             aqui conforme definição jurídica do hotel antes da publicação.
           </p>
         </Reveal>

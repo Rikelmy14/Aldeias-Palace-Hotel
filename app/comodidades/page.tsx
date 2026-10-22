@@ -7,7 +7,7 @@ import { amenities } from "@/data/amenities";
 
 export const metadata: Metadata = {
   title: "Comodidades",
-  description: "Confira as comodidades do Aldeias Palace Hotel em Tucumã, Pará.",
+  description: "Confira as comodidades do Pluma's Hotel em Tucumã, Pará.",
 };
 
 export default function ComodidadesPage() {

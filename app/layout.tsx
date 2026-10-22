@@ -12,7 +12,7 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 import { hotel } from "@/data/hotel";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.aldeiaspalacehotel.com.br"),
+  metadataBase: new URL("https://www.pluma'shotel.com.br"),
   title: {
     default: hotel.seo.title,
     template: `%s | ${hotel.name}`,
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: hotel.seo.title,
     description: hotel.seo.description,
-    url: "https://www.aldeiaspalacehotel.com.br",
+    url: "https://www.pluma'shotel.com.br",
     siteName: hotel.name,
     locale: "pt_BR",
     type: "website",

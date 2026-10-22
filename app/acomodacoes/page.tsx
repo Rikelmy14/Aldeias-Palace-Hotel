@@ -8,7 +8,7 @@ import { rooms } from "@/data/rooms";
 export const metadata: Metadata = {
   title: "Acomodações",
   description:
-    "Conheça as acomodações do Aldeias Palace Hotel em Tucumã, Pará, e consulte disponibilidade pelo WhatsApp.",
+    "Conheça as acomodações do Pluma's Hotel em Tucumã, Pará, e consulte disponibilidade pelo WhatsApp.",
 };
 
 export default function AcomodacoesPage() {

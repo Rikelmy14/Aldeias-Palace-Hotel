@@ -7,7 +7,7 @@ import { buildWhatsAppUrl, generalMessage } from "@/lib/whatsapp";
 
 export const metadata: Metadata = {
   title: "Contato",
-  description: "Fale com o Aldeias Palace Hotel em Tucumã, Pará, por telefone, e-mail ou WhatsApp.",
+  description: "Fale com o Pluma's Hotel em Tucumã, Pará, por telefone, e-mail ou WhatsApp.",
 };
 
 export default function ContatoPage() {

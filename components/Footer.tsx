@@ -19,9 +19,9 @@ export default function Footer() {
     <footer className="bg-graphite-950 text-sand-100">
       <div className="container-edit py-16 grid md:grid-cols-4 gap-12">
         <div>
-          <span className="block font-display text-lg tracking-wide2 text-sand-50">Aldeias</span>
+          <span className="block font-display text-lg tracking-wide2 text-sand-50">Pluma's</span>
           <span className="block text-xs tracking-[0.25em] text-champagne-400 mt-0.5">
-            PALACE HOTEL
+            hotel
           </span>
           <p className="mt-5 text-sm text-sand-100/60 leading-relaxed max-w-xs">
             Hospitalidade e conforto no coração de Tucumã, Pará.
@@ -88,7 +88,7 @@ export default function Footer() {
           </ul>
           {(hotel.phoneIsPlaceholder || hotel.emailIsPlaceholder || hotel.addressIsPlaceholder) && (
             <p className="mt-4 text-xs text-champagne-400/80 leading-relaxed">
-              Dados de contato provisórios — a confirmar pelo hotel.
+              Dados de contato provisórios, a confirmar pelo hotel.
             </p>
           )}
         </div>

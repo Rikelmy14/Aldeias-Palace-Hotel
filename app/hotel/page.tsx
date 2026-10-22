@@ -10,7 +10,7 @@ import * as Icons from "lucide-react";
 export const metadata: Metadata = {
   title: "O Hotel",
   description:
-    "Conheça a estrutura, a proposta e a hospitalidade do Aldeias Palace Hotel em Tucumã, Pará.",
+    "Conheça a estrutura, a proposta e a hospitalidade do Pluma's Hotel em Tucumã, Pará.",
 };
 
 export default function HotelPage() {
@@ -19,7 +19,7 @@ export default function HotelPage() {
       <section className="relative h-[55vh] min-h-[420px] w-full overflow-hidden">
         <Image
           src="https://images.unsplash.com/photo-1571896349842-33c89424de2d?q=80&w=2400&auto=format&fit=crop"
-          alt="Interior do Aldeias Palace Hotel"
+          alt="Interior do Pluma's Hotel"
           fill
           priority
           className="object-cover"
@@ -37,7 +37,7 @@ export default function HotelPage() {
           <Reveal>
             <SectionHeading title="Hospitalidade no coração de Tucumã" />
             <p className="mt-7 text-graphite-800/85 leading-relaxed max-w-prose2">
-              O Aldeias Palace Hotel foi pensado para quem busca uma estadia
+              O Pluma's Hotel foi pensado para quem busca uma estadia
               tranquila, prática e confortável em Tucumã. Cada detalhe da
               nossa estrutura existe para tornar a passagem do hóspede pela
               cidade mais simples e agradável, seja a trabalho, em família

@@ -5,7 +5,7 @@ import CTA from "@/components/CTA";
 
 export const metadata: Metadata = {
   title: "Localização",
-  description: "Veja como chegar ao Aldeias Palace Hotel, em Tucumã, Pará.",
+  description: "Veja como chegar ao Pluma's Hotel, em Tucumã, Pará.",
 };
 
 export default function LocalizacaoPage() {
